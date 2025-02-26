@@ -1,4 +1,13 @@
 /* Home Page */
 /* Navbar */
+.navbar{
+    display: flex;
+    align-items: left;
+    padding: 10px 10px 10px 10px;
+}
+.logo {
+    width: 110px;
+    height: 100px;
+}
 /* Carousel */
 /* Footer */
