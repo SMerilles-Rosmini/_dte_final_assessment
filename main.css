@@ -38,7 +38,7 @@
 /* Carousel */
     .carousel-item{
         height:32rem;
-        background: white;
+        background: grey;
         position: relative;
         background-position: center;
         background-size: cover;
@@ -51,28 +51,8 @@
         padding-bottom: 50px;
     }
 
-    .overlay-image1{
-        position:absolute;
-        bottom: 0;
-        left: 0;
-        right: 0;
-        background-position: center;
-        background-size: cover;
-        background-image: url(_dte_final_assessment\Images\slide-1.jpg);
-        opacity: 0.5;
+    
 
-    }
 
-    .overlay-image2{
-        position:absolute;
-        bottom: 0;
-        left: 0;
-        right: 0;
-        background-position: center;
-        background-size: cover;
-        background-image: url(_dte_final_assessment\Images\slide-2.jpg);
-        opacity: 0.5;
-
-    }
 
 /* Footer */
