@@ -36,12 +36,14 @@
 }
 
 /* Carousel */
-    .carousel-item{
-        height:32rem;
-        background: grey;
-        position: relative;
-        
-       
-    }
- 
+.carousel-inner{
+    margin: none;
+   
+}
+.carouselimg {
+    height: auto;
+    width: 100%;
+}
+
+    
 /* Footer */
