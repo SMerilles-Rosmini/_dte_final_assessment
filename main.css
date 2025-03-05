@@ -36,17 +36,19 @@
 }
 
 /* Carousel */
-    .carousel-item{
-        height:32rem;
-        background: grey;
-        position: relative;
-        background-position: center;
-        background-size: cover;
-       
-    }
-    .image{
-        height: 512px;
-        margin-left: 500px;
-        margin-right: 500px;
-    }
+.container{
+    height:512px;
+} 
+.carousel-inner{
+    margin: none;
+   
+}
+.carouselimg {
+    width: 100%;
+}
+.item{
+    height:512px;
+    
+}
+    
 /* Footer */
