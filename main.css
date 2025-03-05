@@ -61,8 +61,29 @@
 /* Footer */
 .footer{
     display: flex;
+    text-align: center;
+    justify-content: space-around ;  
     padding: 10px 10px 10px;
     margin: 10px 10px 10px;
     background-color:  rgb(37, 106, 170);
     color: rgb(255, 255, 255);
+    
+}
+/* Student Sitemap */
+.sitemapstd{
+
+  text-align: center;
+}
+.sitemap{
+    text-align: center;
+    color: white;
+    margin: 10px 10px 10px 10px;
+}
+h5{
+    text-decoration: underline;
+}
+/* Parent Sitemap */
+.sitemappar{
+    
+  text-align: center;
 }
