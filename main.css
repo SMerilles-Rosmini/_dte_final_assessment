@@ -50,5 +50,12 @@
     height:512px;
     
 }
-   
+/* Body */
+.body{
+    display: flex;
+    padding: 10px 10px 10px;
+    margin: 10px 10px 10px;
+    background-color: rgb(0, 0, 70);
+    color: rgb(255, 255, 255);
+}
 /* Footer */
