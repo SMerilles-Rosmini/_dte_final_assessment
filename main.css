@@ -24,9 +24,10 @@
 }
 .motto{
     padding: 10px 10px 10px 10px;
-    padding-top: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     margin: 10px 10px 10px 10px;
-    color: white;
+    color: rgb(0, 0, 0);
 }
 .name{
     padding: 10px 10px 10px;
@@ -57,10 +58,26 @@
 /* Body */
 .body{
     display: flex;
+    flex-direction: column;
     padding: 10px 10px 10px;
     margin: 10px 10px 10px;
     background-color: rgb(0, 0, 70);
     color: rgb(255, 255, 255);
+}
+h2{
+    text-align: center;
+    padding: 10px 10px 10px;
+}
+span{
+    color:rgb(37, 106, 170);
+    font-size: large;
+    
+}
+.quote{
+    border: 5px solid rgb(37, 106, 170) ;
+    background-color: white;
+    padding: 10px 10px 10px 10px;
+    text-align: center;
 }
 /* Footer */
 .footer{
@@ -79,6 +96,7 @@
   text-align: center;
 }
 .sitemap{
+    text-decoration: none;
     text-align: center;
     color: white;
     margin: 10px 10px 10px 10px;
@@ -90,4 +108,15 @@ h5{
 .sitemappar{
     
   text-align: center;
+}
+/* Images */
+.image123{
+    display:flex;
+    justify-content: space-around;
+    padding: 10px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
+}
+.img{
+    width: 300px;
+    height:400px;
 }
