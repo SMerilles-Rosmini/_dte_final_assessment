@@ -167,3 +167,26 @@ h5{
     justify-content: space-around;
     flex-direction: row;
 }
+/* Group 3 */
+.image789{
+    display:flex;
+    justify-content: space-around;
+    flex-direction: column;
+    padding: 10px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
+    
+}
+.text789{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    padding: 10px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
+
+}
+
+.imgs3{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
