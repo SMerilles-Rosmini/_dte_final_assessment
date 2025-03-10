@@ -116,6 +116,13 @@ h5{
     justify-content: space-around;
     flex-direction: row;
 }
+/* Text */
+.txt{
+    text-align: center;
+    font-size: 20px;
+    color: rgb(37, 106, 170);
+    font-weight: bolder;
+}
 /* Group 1 */
 .image123{
     display:flex;
@@ -126,8 +133,8 @@ h5{
     
 }
 .img{
-    width: 400px;
-    height:400px;
+    width: 300px;
+    height:300px;
     margin-bottom: 10px;
 }
 .text123{
