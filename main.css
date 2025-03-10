@@ -197,3 +197,20 @@ h5{
     justify-content: space-around;
     flex-direction: row;
 }
+/* Staff Page */
+/* Digital Technology */
+.table{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+} 
+.imgs{
+    display: flex;
+    flex-direction: column;
+}
+
+.staffimg{
+    width: 100px;
+    height: 150px;
+    display: block;
+}
