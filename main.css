@@ -109,14 +109,61 @@ h5{
     
   text-align: center;
 }
+/* Sports Page */
 /* Images */
+.images{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+/* Group 1 */
 .image123{
     display:flex;
     justify-content: space-around;
+    flex-direction: column;
     padding: 10px 10px 10px 10px;
     margin: 10px 10px 10px 10px;
+    
 }
 .img{
-    width: 300px;
+    width: 400px;
     height:400px;
+    margin-bottom: 10px;
+}
+.text123{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    padding: 10px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
+
+}
+
+.imgs1{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+/* Group 2 */
+.image456{
+    display:flex;
+    justify-content: space-around;
+    flex-direction: column;
+    padding: 10px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
+    
+}
+.text456{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    padding: 10px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
+
+}
+
+.imgs2{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
 }
