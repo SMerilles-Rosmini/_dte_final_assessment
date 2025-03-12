@@ -1,5 +1,6 @@
 /* Home Page */
 /* Navbar */
+ 
 .navbar{
     display: flex;
     align-items: left;
@@ -69,12 +70,17 @@
 h2{
     text-align: center;
     padding: 10px 10px 10px;
-    font-style: bold;
     font-size: 30px;
+    font-family: "Pangolin", cursive;
+    font-weight: 400;
+    font-style: normal;
 }
 span{
     color:rgb(37, 106, 170);
     font-size: large;
+    font-family: "Pangolin", cursive;
+    font-weight: 400;
+    font-style: normal;
     
 }
 .quote{
