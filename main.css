@@ -1,3 +1,4 @@
+/* Not AI Trust */
 /* Home Page */
 /* Navbar */
  
@@ -23,6 +24,7 @@
     color: white;
         
 }
+/* Motto motto */
 .motto{
     padding: 10px 10px 10px 10px;
     padding-top: 10px;
@@ -98,7 +100,7 @@ span{
     margin: 10px 10px 10px;
     background-color:  rgb(37, 106, 170);
     color: rgb(255, 255, 255);
-    
+       
 }
 /* Student Sitemap */
 .sitemapstd{
@@ -209,15 +211,17 @@ h5{
 }
 /* Staff Page */
 /* Digital Technology */
+
 .table{
     display: flex;
-    justify-content: space-evenly;
-    flex-direction: row;
+    justify-content: space-around;
+    flex-direction: column;
+    padding: 10px 10px 10px 10px;
 } 
 
 .staffimg{
-    width: 100px;
-    height: 150px;
-    
+    width: 150px;
+    height: 200px;
+   
 }
 
