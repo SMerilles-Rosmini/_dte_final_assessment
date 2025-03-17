@@ -129,7 +129,7 @@ span{
 }
 /* Student Sitemap */
 .sitemapstd{
-
+    
   text-align: center;
 }
 .sitemap{
@@ -137,7 +137,8 @@ span{
     text-align: center;
     color: white;
     margin: 10px 10px 10px 10px;
-}
+  
+}    
 .sitemap:hover{
     color: rgb(202, 200, 200);
     text-decoration: underline red 4px;
