@@ -4,7 +4,6 @@
  
 .navbar{
     display: flex;
-    align-items: left;
     padding: 10px 10px 10px 10px;
     background-color: rgb(37, 106, 170);   
     
@@ -53,10 +52,7 @@
     height:512px;
     
 } 
-.carousel-inner{
-    margin: none;
-   
-}
+
 .carouselimg {
     width: 100%;
 }
@@ -245,7 +241,7 @@ h5{
 .table{
     display: flex;
     justify-content: space-around;
-    flex-direction: column;
+    text-align: center;
     padding: 10px 10px 10px 10px;
 } 
 
