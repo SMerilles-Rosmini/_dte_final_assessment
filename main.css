@@ -36,9 +36,10 @@
     padding-bottom: 10px;
     margin: 10px 10px 10px 10px;
     color: rgb(0, 0, 0);
-    border: 5px solid red;
+    border: 5px solid  rgb(255, 29, 29);
     
 }
+/* School Name */
 .name{
     padding: 10px 10px 10px;
     text-align: center;
@@ -70,25 +71,26 @@
     text-align: center;
     padding-left: 50px;
     padding-right: 50px;
-    font-size: 18px;
+    font-size: 14px;
 }
 /* Headings for things */
 h2{
     text-align: center;
     padding: 10px 10px 10px;
     font-size: 30px;
-    font-family: "Pangolin", cursive;
+    font-family: "Montserrat", sans-serif;
     font-weight: 400;
     font-style: normal;
 }
 
 span{
     color:rgb(0, 0, 0);
-    font-size: 25px;
-    font-family: "Pangolin", cursive;
+    font-size: 17px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
-
+    
     
 }
 /* Quote of something */
@@ -97,8 +99,8 @@ span{
     background-color: white;
     padding: 10px 10px 10px 10px;
     text-align: center;
-    font-size: 30px;
-    font-family: "Pangolin", cursive;
+    font-size: 25px;
+    font-family: "Montserrat", sans-serif;
     font-weight: 400;
     font-style: normal;
     
@@ -106,8 +108,8 @@ span{
 /* The top part of the body text */
 .aboutp1{
     color:rgb(0, 0, 0);
-    font-size: 33px;
-    font-family: "Pangolin", cursive;
+    font-size: 25px;
+    font-family: "Montserrat", sans-serif;
     font-weight: 400;
     font-style: normal;
 }
@@ -148,6 +150,16 @@ h5{
   text-align: center;
 }
 /* Sports Page */
+/* We are committed text */
+.commitment{
+    color:rgb(0, 0, 0);
+    font-size: 25px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
 /* Images */
 .images{
     display: flex;
@@ -250,4 +262,12 @@ h5{
     height: 200px;
    
 }
-
+/* Departments */
+.pos{
+    font-size: 22px;
+}
+/* Header */
+.staff{
+    text-align: center;
+    
+}
