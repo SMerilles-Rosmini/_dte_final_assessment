@@ -85,8 +85,8 @@ h2{
 
 span{
     color:rgb(0, 0, 0);
-    font-size: 25px;
-    font-family: "Pangolin", cursive;
+    font-size: 17px;
+    font-family: "Montserrat", sans-serif;
     font-weight: 400;
     font-style: normal;
     
@@ -98,8 +98,8 @@ span{
     background-color: white;
     padding: 10px 10px 10px 10px;
     text-align: center;
-    font-size: 30px;
-    font-family: "Pangolin", cursive;
+    font-size: 25px;
+    font-family: "Montserrat", sans-serif;
     font-weight: 400;
     font-style: normal;
     
@@ -107,8 +107,8 @@ span{
 /* The top part of the body text */
 .aboutp1{
     color:rgb(0, 0, 0);
-    font-size: 33px;
-    font-family: "Pangolin", cursive;
+    font-size: 19px;
+    font-family: "Montserrat", sans-serif;
     font-weight: 400;
     font-style: normal;
 }
