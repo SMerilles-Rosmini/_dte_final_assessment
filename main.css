@@ -1,9 +1,9 @@
-/* --------------------------------
+/* 
     Stylesheet for Rosmini Website
     File: stylesheet
     Author: Szymon Merilles
     Date: 25/03/2025
-   -------------------------------- */
+   */
 
 
 
@@ -167,7 +167,7 @@ h5{
 .commitment{
     color:rgb(0, 0, 0);
     font-size: 25px;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Montserrat";
     font-weight: 400;
     font-style: normal;
 }
@@ -290,7 +290,7 @@ td{
 /* Departments */
 .pos{
     font-size: 35px;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Montserrat";
     font-weight: 400;
     font-style: normal;
 }
