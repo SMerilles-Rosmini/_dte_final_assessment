@@ -46,13 +46,13 @@
     padding-top: 10px;
     padding-bottom: 10px;
     color: white;
-    background-color: navy;
+    background-color:rgb(37, 105, 170) ;
     background-size: cover;
     background-repeat: no-repeat;
     margin-bottom: 2px;
     letter-spacing: 10px;
     word-spacing: 20px;
-    
+    border-top: 2px solid white;
 }
 /* School Name */
 .name{
@@ -100,12 +100,20 @@ h2{
 }
 
 span{
-    color:rgb(0, 0, 0);
+    color:navy;
     font-size: 17px;
     font-family: "Montserrat";
     font-weight: 400;
     font-style: normal;
     
+    
+}
+.sport{
+    color: black;
+    font-size: 17px;
+    font-family: "Montserrat";
+    font-weight: 400;
+    font-style: normal;
     
 }
 /* Quote of something */
@@ -165,10 +173,10 @@ h5{
 /* Sports Page */
 /* We are committed text */
 .commitment{
-    color:rgb(0, 0, 0);
+    color:navy;
     font-size: 25px;
     font-family: "Montserrat";
-    font-weight: 400;
+    font-weight: 800;
     font-style: normal;
 }
 
@@ -184,6 +192,10 @@ h5{
     font-size: 20px;
     color: navy;
     font-weight: bolder;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    vertical-align: middle;
 }
 /* Group 1 */
 .image123{
